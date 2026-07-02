@@ -1,0 +1,1 @@
+"build": "tsr generate && vite build"
